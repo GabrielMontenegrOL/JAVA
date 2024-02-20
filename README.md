@@ -1,5 +1,5 @@
 # JAVA
 Teste
 
-![25699522](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-srP0gzVtzmKNFDoLjdIhDSUZ8jGhXlqsX1SN0ZSSVw&s)
+![25699522](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)
 
